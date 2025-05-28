@@ -1,4 +1,4 @@
-const apiUrl = "http://localhost:5061/api/student";  // آدرس API را متناسب با پورت خودت تغییر بده
+const apiUrl = "http://localhost:5067/api/student";  // آدرس API را متناسب با پورت خودت تغییر بده
 
 const studentsTableBody = document.querySelector("#studentsTable tbody");
 const addBtn = document.getElementById("addBtn");

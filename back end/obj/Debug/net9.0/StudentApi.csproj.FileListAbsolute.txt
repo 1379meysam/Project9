@@ -83,3 +83,4 @@ D:\New folder (5)\back end\obj\Debug\net9.0\refint\StudentApi.dll
 D:\New folder (5)\back end\obj\Debug\net9.0\StudentApi.pdb
 D:\New folder (5)\back end\obj\Debug\net9.0\StudentApi.genruntimeconfig.cache
 D:\New folder (5)\back end\obj\Debug\net9.0\ref\StudentApi.dll
+D:\New folder (5)\back end\obj\Debug\net9.0\StudentApi.sourcelink.json
